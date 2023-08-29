@@ -6,7 +6,7 @@
 
 ## Technologies Used 👾 
 ### HTML
-### Tailwind-CSS
+### Tailwind-CSS.
 
 ## Getting Started 🌠
 To get started with this project, simply clone the repository and open the index.html file in your web browser. You can also view the live demo of the landing page here.
